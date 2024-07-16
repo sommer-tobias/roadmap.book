@@ -1,2 +1,9 @@
 /.quarto/
 .Rproj.user
+.Rhistory
+.RData
+.Rproj.user
+.Rbuildignore
+.DS_Store
+*.Rproj
+
