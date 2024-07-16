@@ -1,7 +1,15 @@
+```{r}
+#| echo: false
+library(roadmap.dashboard)
+```
+
 # Summary
 
 In summary, this book has no content whatsoever.
+Here is a number `r roundTo(geothermieUntief$ausbaupfad$genutzt$anzahlErdsonden, 1)`
+
 
 ```{r}
 1 + 1
+
 ```

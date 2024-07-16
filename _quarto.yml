@@ -1,15 +1,21 @@
 project:
   type: book
 
+
 book:
   title: "roadmap.book"
-  author: "Norah Jones"
+  author: "Tobias Jones"
   date: "7/16/2024"
   chapters:
+
     - index.qmd
     - intro.qmd
+    - _abwaerme.qmd
     - summary.qmd
     - references.qmd
+
+
+
 
 bibliography: references.bib
 
@@ -20,4 +26,7 @@ format:
     documentclass: scrreprt
 
 editor: visual
+
+
+
 

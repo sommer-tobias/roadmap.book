@@ -1,0 +1,17 @@
+version: 0.0.0.9000
+
+email:
+  info: cynkra GmbH (layal@cynkra.com/tobias@cynkra.com)
+  support: cynkra GmbH (layal@cynkra.com/tobias@cynkra.com)
+
+engine:
+  jupyter: "[Jupyter](https://jupyter.org)"
+  knitr: "[Knitr](<https://yihui.name/knitr>)"
+
+
+params:
+  genutzt: Aktuelle Produktion  #noch nicht genau sicher, wie wir das benennen
+  ziel: Aus fachlicher Sicht empfohlenes Ausbauziel für 2050
+
+setup: |
+  library(roadmap.dashboard)

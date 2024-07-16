@@ -6,4 +6,5 @@
 .Rbuildignore
 .DS_Store
 *.Rproj
+_book
 
